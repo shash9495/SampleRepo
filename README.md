@@ -1,2 +1,3 @@
 # SampleRepo
-Sample Rope to learn
+Sample Repo to learn
+
